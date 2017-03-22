@@ -1,0 +1,17 @@
+﻿{
+    "$schema": "http://datafactories.schema.management.azure.com/schemas/2015-09-01/Microsoft.DataFactory.Table.json",
+    "name": "MyAzureTable",
+    "properties": {
+        "type": "AzureTable",
+        "typeProperties": {
+            "tableName": "[yourtablename]"
+        },
+        "linkedServiceName": "MyAzureStorage",
+        "availability": {
+            "frequency": "Hour",
+            "interval": 1
+        },
+		"external":true,
+        "policy": { }
+    }
+}

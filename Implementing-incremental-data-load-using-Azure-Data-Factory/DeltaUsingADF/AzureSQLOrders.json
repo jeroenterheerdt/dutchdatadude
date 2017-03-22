@@ -1,0 +1,37 @@
+﻿{
+    "$schema": "http://datafactories.schema.management.azure.com/schemas/2015-09-01/Microsoft.DataFactory.Table.json",
+    "name": "Orders",
+    "properties": {
+        "type": "AzureSqlTable",
+        "linkedServiceName": "MyAzureSQL",
+        "structure": [
+		{
+			"name":"Timstamp",
+			"type":"DateTimeOffset"
+		},
+		{
+			"name":"OrderNr",
+			"type":"String"
+		},
+		{
+			"name":"SalesAmount",
+			"type":"Decimal"
+		},
+		{
+			"name":"ColumnForADFuseOnly",
+			"type":"Byte[]"
+		},
+		{
+			"name":"OrderTimestamp",
+			"type":"DateTimeOffset"
+		}
+		],
+        "typeProperties": {
+            "tableName": "[dbo].[Orders]"
+        },
+        "availability": {
+            "frequency": "Hour",
+            "interval": 1
+        }
+    }
+}
