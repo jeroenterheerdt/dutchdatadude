@@ -1,3 +1,3 @@
 # dutchdatadude.com code
 
-This respository contains all code samples as published on my blog http://www.dutchdatadude.com.
+This respository contains all code samples as published on blog http://www.dutchdatadude.com.
