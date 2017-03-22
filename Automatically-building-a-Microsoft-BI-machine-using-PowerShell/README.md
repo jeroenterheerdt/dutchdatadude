@@ -1,0 +1,1 @@
+This code is related to the series on dutchdatadude.com on setting up a Microsoft BI demo virtual machine in Azure using PowerShell: http://www.dutchdatadude.com/automatically-building-a-microsoft-bi-machine-using-powershell-final-post-post-14/
