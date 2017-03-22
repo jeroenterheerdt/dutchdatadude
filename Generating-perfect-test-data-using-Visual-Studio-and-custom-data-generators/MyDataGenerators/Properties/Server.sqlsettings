@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServerProperties xmlns="urn:Microsoft.VisualStudio.Data.Schema.Package.ServerProperties">
+  <Version>1.0</Version>
+  <Properties>
+    <ServerCollation>Latin1_General_CI_AS</ServerCollation>
+  </Properties>
+</ServerProperties>
