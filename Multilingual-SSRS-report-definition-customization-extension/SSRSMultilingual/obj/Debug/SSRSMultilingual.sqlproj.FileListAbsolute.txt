@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\bin\Debug\SSRSMultilingual.dacpac
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\bin\Debug\SSRSMultilingual.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\bin\Debug\SSRSMultilingual.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\obj\Debug\SSRSMultilingual.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\obj\Debug\SSRSMultilingual.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\obj\Debug\Model.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\obj\Debug\refactor.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\obj\Debug\postdeploy.sql
+C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingual\obj\Debug\predeploy.sql
