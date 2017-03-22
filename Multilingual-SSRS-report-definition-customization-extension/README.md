@@ -1,0 +1,1 @@
+This code is related to the post on http://www.dutchdatadude.com on multilingual SSRS reports using an RDCE: http://www.dutchdatadude.com/multilingual-ssrs-reports-scenario-3-report-definition-customization-extension/
