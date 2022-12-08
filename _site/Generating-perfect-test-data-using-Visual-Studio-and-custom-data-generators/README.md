@@ -1,1 +1,0 @@
-This code is related the post on dutchdatadude.com on generating perfect test data using Visual Studio and custom data generators: http://www.dutchdatadude.com/generating-perfect-test-data-using-visual-studio-and-custom-data-generators/

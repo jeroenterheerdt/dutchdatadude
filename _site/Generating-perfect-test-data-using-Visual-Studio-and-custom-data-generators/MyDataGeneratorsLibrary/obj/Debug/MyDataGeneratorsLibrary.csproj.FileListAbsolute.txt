@@ -1,6 +1,0 @@
-c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibrary\bin\Debug\MyDataGeneratorsLibrary.dll
-c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibrary\bin\Debug\MyDataGeneratorsLibrary.pdb
-c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibrary\obj\Debug\MyDataGeneratorsLibrary.dll
-c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibrary\obj\Debug\MyDataGeneratorsLibrary.pdb
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibrary\bin\Debug\MyDataGeneratorsLibrary.Extensions.xml
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibrary\obj\Debug\MyDataGeneratorsLibrary.csprojResolveAssemblyReference.cache

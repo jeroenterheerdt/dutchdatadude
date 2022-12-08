@@ -1,4 +1,0 @@
-﻿References:
-How to: http://msdn.microsoft.com/en-us/library/aa833230(v=VS.100).aspx
-Walkthrough: http://msdn.microsoft.com/en-us/library/aa833244(v=vs.100).aspx
-Public key token: http://redhead-it.com/blog/2007/01/get_publickeytoken_of_a_-net_assembly/

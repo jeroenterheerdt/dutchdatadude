@@ -1,5 +1,0 @@
-C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingualRDCE\bin\Debug\SSRSMultilingualRDCE.dll
-C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingualRDCE\bin\Debug\SSRSMultilingualRDCE.pdb
-C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingualRDCE\bin\Debug\Microsoft.ReportingServices.Interfaces.dll
-C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingualRDCE\obj\Debug\SSRSMultilingualRDCE.dll
-C:\Users\Administrator\documents\visual studio 2012\Projects\SSRSMultilingualRDCE\SSRSMultilingualRDCE\obj\Debug\SSRSMultilingualRDCE.pdb

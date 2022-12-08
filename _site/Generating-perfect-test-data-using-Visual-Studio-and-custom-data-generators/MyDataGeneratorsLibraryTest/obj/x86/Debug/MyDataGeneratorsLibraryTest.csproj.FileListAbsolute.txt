@@ -1,9 +1,0 @@
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\obj\x86\Debug\MyDataGeneratorsLibraryTest.csprojResolveAssemblyReference.cache
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\bin\Debug\MyDataGeneratorsLibraryTest.exe.config
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\bin\Debug\MyDataGeneratorsLibrary.Extensions.xml
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\bin\Debug\MyDataGeneratorsLibraryTest.exe
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\bin\Debug\MyDataGeneratorsLibraryTest.pdb
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\bin\Debug\MyDataGeneratorsLibrary.dll
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\bin\Debug\MyDataGeneratorsLibrary.pdb
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\obj\x86\Debug\MyDataGeneratorsLibraryTest.exe
-C:\Users\Jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGeneratorsLibraryTest\obj\x86\Debug\MyDataGeneratorsLibraryTest.pdb
