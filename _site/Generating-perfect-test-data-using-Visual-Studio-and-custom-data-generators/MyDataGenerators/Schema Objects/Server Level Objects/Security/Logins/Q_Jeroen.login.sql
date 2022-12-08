@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [Q\Jeroen]
+    FROM WINDOWS WITH DEFAULT_DATABASE = [master], DEFAULT_LANGUAGE = [us_english];
+

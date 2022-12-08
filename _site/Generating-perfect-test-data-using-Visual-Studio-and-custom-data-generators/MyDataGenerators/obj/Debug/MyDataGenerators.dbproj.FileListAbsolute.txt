@@ -1,0 +1,9 @@
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\sql\debug\master_Script.PreDeployment.sql
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\sql\debug\master_Script.PostDeployment.sql
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\sql\debug\master_Master.sqlsettings
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\sql\debug\master_Server.sqlsettings
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\sql\debug\master_Master.sqldeployment
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\sql\debug\master_Master.sqlcmdvars
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\sql\debug\MyDataGenerators.deploymanifest
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\sql\debug\MyDataGenerators.dbschema
+c:\users\jeroen\documents\visual studio 2010\Projects\MyDataGenerators\MyDataGenerators\obj\Debug\MyDataGenerators.dbschema

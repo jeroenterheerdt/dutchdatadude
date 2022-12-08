@@ -1,0 +1,11 @@
+﻿{
+    "name": "MyAzureSQL",
+    "properties": {
+        "description": "",
+        "hubName": "my_hub",
+        "type": "AzureSqlDatabase",
+        "typeProperties": {
+            "connectionString": "Data Source=tcp:[yourdatabase].database.windows.net,1433;Initial Catalog=[yourdatabase];Integrated Security=False;User ID=[youruser]@[yourdatabase];Password=[yourpassword];Connect Timeout=30;Encrypt=True"
+        }
+    }
+}

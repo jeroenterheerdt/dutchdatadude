@@ -1,0 +1,56 @@
+﻿{
+    "name": "CopyFromAzureSQLOrdersToAzureSQLOrders2",
+    "properties": {
+        "activities": [
+            {
+                "type": "Copy",
+                "typeProperties": {
+                    "source": {
+                        "type": "SqlSource",
+                        "sqlReaderQuery": "$$Text.Format('select * from [dbo].[Orders] where [OrderTimestamp] >= \\'{0:yyyy-MM-dd HH:mm}\\' AND [OrderTimestamp] < \\'{1:yyyy-MM-dd HH:mm}\\'', WindowStart, WindowEnd)"
+                    },
+                    "sink": {
+                        "type": "SqlSink",
+                        "sliceIdentifierColumnName": "ColumnForADFuseOnly2",
+                        "writeBatchSize": 0,
+                        "writeBatchTimeout": "00:00:00"
+                    },
+                    "translator": {
+                        "type": "TabularTranslator",
+                        "columnMappings": "SalesAmount:SalesAmount,OrderTimestamp:OrderTimestamp"
+                    },
+                    "parallelCopies": 10
+                },
+                "inputs": [
+                    {
+                        "name": "Orders"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "name": "Orders2"
+                    }
+                ],
+                "policy": {
+                    "timeout": "1.00:00:00",
+                    "concurrency": 1,
+                    "executionPriorityOrder": "NewestFirst",
+                    "style": "StartOfInterval",
+                    "retry": 3,
+                    "longRetry": 0,
+                    "longRetryInterval": "00:00:00"
+                },
+                "scheduler": {
+                    "frequency": "Hour",
+                    "interval": 1
+                },
+                "name": "Activity-0-[dbo]_[Orders]->[dbo]_[Orders2]"
+            }
+        ],
+        "start": "2017-03-21T10:45:38.999Z",
+        "end": "2099-12-30T23:00:00Z",
+        "isPaused": false,
+        "hubName": "my_hub",
+        "pipelineMode": "Scheduled"
+    }
+}

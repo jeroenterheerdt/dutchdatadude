@@ -1,0 +1,11 @@
+﻿{
+    "name": "MyAzureStorage",
+    "properties": {
+        "description": "",
+        "hubName": "my_hub",
+        "type": "AzureStorage",
+        "typeProperties": {
+            "connectionString": "DefaultEndpointsProtocol=https;AccountName=[yourstorageaccountname];AccountKey=[youraccountkey]"
+        }
+    }
+}
